@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1493936967 source:e:\utn\parcial ml\func.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"func.h"
+	"publicacion.h"
+
+1493943335 source:e:\utn\parcial ml\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"func.h"
+	"publicacion.h"
+
+1493936967 e:\utn\parcial ml\func.h
+
+1493943090 e:\utn\parcial ml\publicacion.h
+
+1493943090 source:e:\utn\parcial ml\publicacion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"func.h"
+	"publicacion.h"
+
